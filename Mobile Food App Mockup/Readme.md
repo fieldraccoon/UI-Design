@@ -11,4 +11,4 @@ https://bit.ly/3ghgzqb
 
 # Design
 
-!(https://cdn.dribbble.com/users/7546934/screenshots/15459340/media/cd4a7f09007e6bae8ca624fcef4fe347.png?compress=1&resize=1000x750)
+![design](https://cdn.dribbble.com/users/7546934/screenshots/15459340/media/cd4a7f09007e6bae8ca624fcef4fe347.png?compress=1&resize=1000x750)
